@@ -8,7 +8,8 @@ const Layout = ({ children }) => {
 	return (
 		<div className='layout'>
 			<Head>
-				<title>Store Name</title>
+				<title>SoundWave</title>
+				<link rel='shortcut icon' href='/assets/favicon.webp' />
 			</Head>
 			<header>
 				<Navbar />
